@@ -15,4 +15,4 @@ User Accounts, Cake Customization, Order Management, Business Management, and Sy
 - **Design Goals:** Focus on low coupling, high cohesion, scalability, and usability to ensure maintainability and performance.
 
 ## Team Contributions
-This project was completed by [Hanadi Asfour](https://github.com/hanadiasfour), [Amani Sayya](https://github.com/amanisayyad), [Worood Assi](https://github.com/woroodfathiassi), and [Jeneen Jaber](https://github.com/Jeneen72).
+This project was completed by [Hanadi Asfour](https://github.com/hanadiasfour), [Amani Sayyad](https://github.com/amanisayyad), [Worood Assi](https://github.com/woroodfathiassi), and [Jeneen Jaber](https://github.com/Jeneen72).
